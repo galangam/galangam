@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Galang Agung Munggaran 👋
+SMK student | Cloud & Web Dev enthusiast  
+Learning AWS, Git, and modern web deployment.
 
-<!--
-**galangam/galangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Projects
+- **Portfolio** — https://your-portfolio-url (GitHub Pages/Vercel)  
+- **Todo App** — link repo + live demo  
+- **Simple REST API** — link repo (Node/Express)
 
-Here are some ideas to get you started:
+## 🧰 Skills
+Git · GitHub · HTML · CSS · JavaScript · Node.js · AWS (Educate) · CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/galang-am  
+Email: galang@smkn1subang.sch.id
